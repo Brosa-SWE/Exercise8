@@ -1,0 +1,37 @@
+.bg { 
+    /* The image used */
+    background-image: url("img/bg.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* Overwrite Bootstrap CSS */
+  .navbar-dark {background-color: #2F170F; opacity: 90%;}
+
+  .nav-link {color:burlywood;}
+
+  .footer {color: burlywood;}
+
+  .splash {
+      background-color: #f6e1c5;
+      opacity: 90%;
+      color: #555555;
+      width: 100%;
+      border-radius: 0.25rem;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 0px;
+      margin-left: 0px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+
+  
